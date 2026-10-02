@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import Navbar from '@/components/app/navbar.vue';
+import Navbar from '@/components/app/Navbar.vue';
 import Breadcrumb from '@/components/app/Breadcrumb.vue';
 </script>
 
